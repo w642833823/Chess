@@ -1,2 +1,3 @@
-# Chess
-该象棋主要实现人人对战，人机对战，网络端和客户端，待完善
+# QTcpfile
+use QT （base tcp）to fullfill file translate
+使用QT创建客户端于服务端实现基于tcp协议的文件传送
